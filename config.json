@@ -1,0 +1,12 @@
+{
+  "spotTypes": {
+    "Eletric": "Eletric",
+    "Moto": "Moto",
+    "Normal": "Normal"
+  },
+  "maxSpots": {
+    "Eletric": 1,
+    "Moto": 1,
+    "Normal": 1
+  }
+}
